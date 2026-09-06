@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/alt-in-one-cover-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/alt-in-one-cover-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/alt-in-one-cover-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="../assets/alt-in-one-cover-dark.png">
   <img src="./assets/alt-in-one-cover-light.png" alt="ALT IN ONE" width="100%">
 </picture>
 
@@ -97,7 +97,7 @@ We focus on building technology that is **practical, scalable, secure, and ready
 
 📷 **Instagram** · [@altinonepvtltd](https://www.instagram.com/altinonepvtltd/)
 
-📘 **Facebook** · [ALT IN ONE](https://www.facebook.com/)
+📘 **Facebook** · [ALT IN ONE](https://www.facebook.com/people/ALT-IN-ONE/61593216849675/)
 
 ---
 
