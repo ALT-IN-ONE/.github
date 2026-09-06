@@ -1,10 +1,20 @@
-# ALT IN ONE
+<div align="center">
 
-### Engineering intelligent software, connected systems, and smart hardware for the future.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/alt-in-one-cover-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/alt-in-one-cover-light.png">
+  <img src="./assets/alt-in-one-cover-light.png" alt="ALT IN ONE" width="100%">
+</picture>
+
+<br>
+
+### Engineering intelligent software, connected systems, and smart technology.
+
+</div>
 
 ALT IN ONE is a technology company building **software, intelligent applications, connected systems, and smart hardware** that turn ideas into real-world technology.
 
-We bring together software engineering, intelligent technologies, cloud systems, IoT, embedded systems, and hardware engineering to create solutions designed for a connected world.
+We combine software engineering, AI, cloud, IoT, embedded systems, and hardware engineering to create practical technology for a connected world.
 
 ---
 
@@ -22,7 +32,6 @@ Building modern digital experiences and scalable software systems.
 * Mobile Applications
 * Custom Software Solutions
 * APIs & Backend Systems
-* UX-Focused Applications
 * Cloud-Based Solutions
 
 </td>
@@ -48,7 +57,6 @@ Applying intelligent technologies to make systems smarter and more capable.
 
 Connecting software, devices, sensors, and the physical world.
 
-* Internet of Things
 * IoT Development
 * Embedded Systems
 * Sensor Integration
@@ -66,7 +74,6 @@ Exploring technologies that enable new digital possibilities.
 * Decentralized Applications
 * Smart Contracts
 * Distributed Systems
-* Emerging Digital Technologies
 
 </td>
 </tr>
@@ -74,53 +81,28 @@ Exploring technologies that enable new digital possibilities.
 
 ---
 
-## Our Engineering Approach
+## Engineering Focus
 
-We believe great technology is created by connecting **ideas, engineering, and real-world impact**.
+**Software · AI · Cloud · IoT · Embedded · Hardware · Emerging Technology**
 
-```text
-Imagine
-   ↓
-Engineer
-   ↓
-Connect
-   ↓
-Evolve
-```
-
-From software and cloud platforms to intelligent applications and connected hardware, we focus on building technology that is **practical, scalable, and ready for the future**.
+We focus on building technology that is **practical, scalable, secure, and ready to evolve**.
 
 ---
 
-## Technology
+## Connect
 
-Our engineering ecosystem spans multiple layers of modern technology:
+🌐 **Website** · [altinone.com](https://www.altinone.com/)
 
-**Software**
-Web · Mobile · APIs · Cloud · Backend · UX
+💼 **LinkedIn** · [ALT IN ONE](https://www.linkedin.com/company/alt-in-one/)
 
-**Intelligence**
-AI · Automation · Data · Intelligent Systems
+📷 **Instagram** · [@altinonepvtltd](https://www.instagram.com/altinonepvtltd/)
 
-**Connected Technology**
-IoT · Embedded Systems · Sensors · Smart Devices
-
-**Emerging Technology**
-Blockchain · DApps · Smart Contracts
+📘 **Facebook** · [ALT IN ONE](https://www.facebook.com/)
 
 ---
 
-## Explore ALT IN ONE
-
-Our GitHub organization is where our engineering work, technologies, and future projects come together.
-
-As our engineering ecosystem grows, this space will evolve with it.
-
-### Connect with us
-
-🌐 **Website** · [altinone.com](https://www.altinone.com/?utm_source=chatgpt.com)
-💼 **LinkedIn** · [ALT IN ONE on LinkedIn](https://www.linkedin.com/company/alt-in-one?utm_source=chatgpt.com)
-
----
+<div align="center">
 
 <sub>ALT IN ONE · Engineering the connected future.</sub>
+
+</div>
