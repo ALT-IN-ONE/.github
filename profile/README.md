@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../assets/alt-in-one-cover-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="../assets/alt-in-one-cover-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="../assets/alt-in-one-cover-light.png">
   <img src="./assets/alt-in-one-cover-light.png" alt="ALT IN ONE" width="100%">
 </picture>
 
